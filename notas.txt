@@ -49,3 +49,9 @@ DEFINICIÒN:
 Es una representación de árbol de la estructura sintáctica abstracta del texto
 (a menudo código fuente) escrito en un lenguaje formal. Cada nodo del árbol
 denota una construcción que ocurre en el texto.
+
+npm list
+npm list -g --depth 0
+npm install <paquete>, dependencias de produccion
+npm install <paquete> -D, dependencias de desarrollo
+npm update <paquete>
